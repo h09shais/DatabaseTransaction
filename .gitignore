@@ -1,0 +1,5 @@
+.vs/
+DatabaseTransaction/bin/
+DatabaseTransaction/obj/
+packages/
+DatabaseTransaction/App.config
